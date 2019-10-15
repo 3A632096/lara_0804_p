@@ -1,0 +1,13 @@
+{
+    "name": "user/lara_0804_p",
+    "authors": [
+        {
+            "name": "Yu Qin",
+            "email": "zxas5820@yahoo.com.tw"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^1.21"
+
+    }
+}
